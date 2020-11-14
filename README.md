@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently doing some projects to master my skills.
 - 🌱 I’m currently learning Redux
